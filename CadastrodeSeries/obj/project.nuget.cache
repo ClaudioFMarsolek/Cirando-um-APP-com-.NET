@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "aHYz3QhsUYM0aqvnmHAbTetv8Orf/A0s5EvnjaSk5AbAWq8yyaGNVevdEF3SL9vO0CzAymAYykl7z+/UyoW/ew==",
+  "success": true,
+  "projectFilePath": "C:\\CadastrodeSeries\\CadastrodeSeries.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\claud\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
